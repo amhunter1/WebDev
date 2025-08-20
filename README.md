@@ -186,7 +186,7 @@ To upgrade from the original version:
 
 ### 🤝 **Contributing**
 
-We welcome contributions! Please see our contributing guidelines for more information.
+Thanks to [Qwen project](https://qwen.ai/home) for helping me develop this project thanks to its open source code support.
 
 ### 📄 **License**
 
@@ -385,3 +385,4 @@ Katkıları memnuniyetle karşılıyoruz! Daha fazla bilgi için katkıda bulunm
 ### 📄 **Lisans**
 
 Bu proje MIT Lisansı altında lisanslanmıştır - ayrıntılar için LICENSE dosyasına bakın.
+
